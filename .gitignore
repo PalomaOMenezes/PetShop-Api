@@ -3,9 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# AppSettings 
-
-
 # User-specific files
 *.rsuser
 *.suo
@@ -363,3 +360,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/src/MyApi.API/Properties/ServiceDependencies/cmeusqapxe-api-crop - Web Deploy
+/src/MyApi.API/Properties/ServiceDependencies
