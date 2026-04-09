@@ -81,11 +81,7 @@ namespace Petshop.Api.Repository
                 }
                 catch
                 {
-                    return null;
-                }
-                finally
-                {
-                    connection.Clone();
+                    return new List<Cliente>();
                 }
             }
         }
